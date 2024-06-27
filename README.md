@@ -7,7 +7,7 @@
 ###
 
 
-<p align="left">🎓 Academic Journey<br>I'm currently in the third year of my BSc in Information Technology program. My journey in the world of technology has been a fascinating one so far, and I'm excited to keep learning and growing.<br><br>💡 Aspiring MERN Stack Developer<br>My heart beats for web development, and my goal is to become a proficient MERN (MongoDB, Express.js, React, Node.js) stack developer. <br><br>Happy coding! 🖥️🚀</p>
+<p align="left">🎓 Academic Journey<br>I'm currently in the third year of my BSc in Information Technology program. My journey in the world of technology has been a fascinating one so far, and I'm excited to keep learning and growing.<br><br></p>
 
 ###
 
@@ -23,7 +23,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
       <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+ />
     <img width="12" />
    
 
